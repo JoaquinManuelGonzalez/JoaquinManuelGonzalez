@@ -13,4 +13,4 @@
 <a href="https://discord.gg/#9355" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#9355" height="30" width="40" /></a>
 </p>
 
-[![JoaquinManuelGonzalez's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaquinManuelGonzalez)](https://github.com/anuraghazra/github-readme-stats)
+![JoaquinManuelGonzalez's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaquinManuelGonzalez&show_icons=true&theme=gruvbox)
