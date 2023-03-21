@@ -11,5 +11,10 @@
 <a href="https://linkedin.com/in/joaquin-manuel-gonzalez-96017026b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joaquin-manuel-gonzalez-96017026b" height="30" width="40" /></a>
 <a href="https://instagram.com/joacoogonz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="joacoogonz" height="30" width="40" /></a>
 <a href="https://discord.gg/#9355" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#9355" height="30" width="40" /></a>
-</p>
-
+</p> 
+  
+## <h3 align="center">📊 My GitHub stats 📊</h3>
+<br/>
+    <p align="center">
+        <img height="137px" src="https://github-readme-stats.vercel.app/api?username=JoaquinManuelGonzalez&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=github_dark&hide=prs,contribs" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaquinManuelGonzalez&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=github_dark&layout=compact&langs_count=6)" />
+    </p>
