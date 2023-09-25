@@ -1,4 +1,5 @@
 ### <h3 align="center">Hi, I'm Joaquin 👋🧑‍💻
+<p align="center" ><img align="center" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" loop></p>
 
 ## <h3 align="center">📚 Student of the Bachelor of Systems career at the National University of La Plata, in turn student of level B2+ in English 📚</h3>
 
@@ -14,7 +15,7 @@
 </p> 
   
 ## <h3 align="center">📊 My GitHub stats 📊</h3>
-<br/>
-    <p align="center">
-        <img height="137px" src="https://github-readme-stats.vercel.app/api?username=JoaquinManuelGonzalez&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=github_dark&hide=prs,contribs" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaquinManuelGonzalez&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=github_dark&layout=compact&langs_count=6)" />
-    </p>
+<p align="center" height="100px" ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaquinManuelGonzalez&langs_count=10&theme=dark&layout=compact" alt="JoaquinManuelGonzalez :: Top Lenguajes" /></p>
+<p align="center" height="100px" ><img src="https://github-readme-stats.vercel.app/api?username=JoaquinManuelGonzalez&show_icons=true&theme=dark" alt="JoaquinManuelGonzalez :: Profile Stats" /></p>
+
+
