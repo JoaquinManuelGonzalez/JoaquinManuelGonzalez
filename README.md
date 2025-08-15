@@ -69,6 +69,8 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/sqlite/003B57" height="50" alt="sqlite logo"  />
   <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" height="50"/>
+  <img width="12" />
   <img src="https://cdn.simpleicons.org/docker/2496ED" height="50" alt="docker logo"  />
 </div>
 
